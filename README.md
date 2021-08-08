@@ -1,6 +1,6 @@
-# excel-conciliacao-tabela-dinamica
+# excel-tabela-dinamica
 
-Esse projeto faz parte de um estudo mais aprofundado sobre excel e conciliação, tentdo como único objetivo detalhar os passos necessários da tabela dinâmica, a fim de servir como uma base de conhecimento para outros usuários da comunidade.
+Esse projeto faz parte de um estudo mais aprofundado sobre excel, tentdo como único objetivo detalhar os passos necessários da tabela dinâmica, a fim de servir como uma base de conhecimento para consultas futuras e outros usuários da comunidade.
 
 ## Estratégias abordadas:
 
